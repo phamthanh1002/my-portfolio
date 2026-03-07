@@ -187,8 +187,9 @@ export default function Home() {
               }}
             >
               <Button
+                component="a"
                 href="/cv/Pham-Cong-Thanh-IT-Developer.pdf"
-                download
+                download="Pham-Cong-Thanh-IT-Developer.pdf"
                 variant="contained"
                 size="large"
                 sx={{
