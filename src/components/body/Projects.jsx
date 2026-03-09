@@ -35,7 +35,7 @@ export default function Projects() {
         "Cloudinary",
       ],
       github: "https://github.com/phamthanh1002/back-2-use-be",
-      demo: "https://back-2-use-fe.vercel.app",
+      demo: "https://back-2-use-fe-eight.vercel.app",
     },
     {
       title: "DesignMyKicks",
